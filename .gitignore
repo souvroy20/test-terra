@@ -1,0 +1,6 @@
+.qodo/
+.vscode/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfstate.backup

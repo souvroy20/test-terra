@@ -1,0 +1,8 @@
+# Force LF line endings for Terraform files
+*.tf text eol=lf
+
+# Force CRLF line endings for batch files
+*.bat text eol=crlf
+
+# Let Git auto-detect but treat .txt as text
+*.txt text
